@@ -1,16 +1,16 @@
 ## Build and Deploy your portfolio ...with Kevin Powell
 
-https://scrimba.com/learn/portfolio
-https://www.youtube.com/watch?v=_xkSvufmjEs&t=358s
+https://scrimba.com/learn/portfolio  
+https://www.youtube.com/watch?v=_xkSvufmjEs&t=358s  
 https://xd.adobe.com/spec/6ebfeb86-6eeb-4b69-77dc-ecf4c4506bcc-188e/grid
 
 
 
 ### Course content 
 
-. Introduction
-. Setting things up - HTML
-. The Header Area - HTML
+- Introduction
+- Setting things up - HTML
+- The Header Area - HTML
 . Intro Section
 . About me, Work and Footer - HTML
 . Setting up the Custom Properties and General Styles
